@@ -1,0 +1,15 @@
+COMO desarrollador NECESITO: 
+- Crear pantalla inicial.
+- Crear botón que permita crear usuario nuevo.
+- Crear un usuario ''ADMIN''. 
+- Crear un usuario ''COLAB''
+- Crear una base de datos MySQL.
+
+COMO usuario ''ADMIN'' NECESITO:
+- Determinar QUIEN cargará inicialmente el inventario de stock.
+- Determinar QUIENES podrán descontar cantidades del stock.
+- Determinar QUIEN creará los equipos.
+- Determinar QUIEN los editará una vez creados.
+
+COMO usuario Colaborador NECESITO:
+- Hacer log-in al sistema.
